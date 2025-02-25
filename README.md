@@ -65,4 +65,20 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+### 2. DebuggingApplication
 
+Simple Debugging Application which shows usecase for Quickwatch on variables in Visual Studio.
+
+#### Demo
+
+**UserInput:**
+
+![UserInput](https://github.com/Gautam-Lathiya/Practical_01/blob/master/assets/DebuggingApplication/user_input.png)
+
+**Quickwatch:**
+
+![Quickwatch](https://github.com/Gautam-Lathiya/Practical_01/blob/master/assets/DebuggingApplication/Quickwatch.png)
+
+**Exception:**
+
+![Exception](https://github.com/Gautam-Lathiya/Practical_01/blob/master/assets/DebuggingApplication/Exception.png)
