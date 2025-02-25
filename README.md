@@ -46,12 +46,15 @@ The Calculator project is designed to perform basic arithmetic operations. It in
 #### Demo
 
 **Valid Inputs Example:**
+
 ![Valid_Inputs](https://github.com/Gautam-Lathiya/Practical_01/blob/master/assets/Calculator/valid_inputs.png)
 
 **Invalid Inputs Example:**
+
 ![Invalid_Inputs](https://github.com/Gautam-Lathiya/Practical_01/blob/master/assets/Calculator/invalid_inputs.png)
 
 **Division by Zero Example:**
+
 ![Div_By_Zero](https://github.com/Gautam-Lathiya/Practical_01/blob/master/assets/Calculator/Div_By_Zero.png)
 
 #### Contributing
